@@ -29,42 +29,22 @@ I enjoy operating where ownership matters more than titles and execution matters
 ---
 
 ## ⚡ Building Now
-
-🏦 Enterprise Banking Platform (NIMB)
-
-📱 Advanced React Native Applications
-
-⚙️ Scalable Backend Systems
-
-🧠 Exploring AI-Augmented Product Experiences
-
-🚀 Preparing for Founding Engineer Opportunities
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deekshith01)
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/technoboy07)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekshitp74@gmail.com)
+ Enterprise Banking Platform (NIMB)
+ Advanced React Native Applications
+ Scalable Backend Systems
+ Exploring AI-Augmented Product Experiences
+ Preparing for Founding Engineer Opportunities
 
 ---
 
 ## 🏆 Highlights
 
-🏦 Full Stack Developer @ Rumango
-
-📄 Research Publication + Copyright Grant
-
-❤️ Built ECG Prediction Application
-
-📱 Multiple Production React Native Apps
-
-🏎 Head of Media & Corporate — Team 1.618 Formula Student
-
-🏗 Led Rural Education Center Renovation Initiative
+Full Stack Developer @ Rumango
+Research Publication + Copyright Grant
+Built ECG Prediction Application
+Multiple Production React Native Apps
+Head of Media & Corporate — Team 1.618 Formula Student
+Led Rural Education Center Renovation Initiative
 
 ---
 
@@ -108,22 +88,6 @@ I enjoy operating where ownership matters more than titles and execution matters
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-# 🔥 Featured Projects
-
-## 🏦 NIMB Banking Platform
-
-Building a unified banking ecosystem handling onboarding, account management and financial workflows.
-
-## ❤️ Hriday
-
-Healthcare application that predicts ECG abnormalities and recommends nearby cardiologists.
-
-## 🏃 SRMFIT
-
-Fitness tracking application used for inter-college activities with efficient native step tracking.
 
 ---
 
