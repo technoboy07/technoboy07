@@ -1,30 +1,44 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=DEEKSHITH%20PARTHASARATHY&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20•%20Product%20Builder%20•%20Future%20Founding%20Engineer&descAlignY=60"/>
+
 <h1 align="center">
-  Hey There 👋
+Building purposeful tech that connects design, data, and people.
 </h1>
 
 <h3 align="center">
-Building purposeful tech that connects design, data, and people.
+Full Stack Developer | React Native | Spring Boot | Product Engineering
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Enterprise+Banking+Platforms;React+Native+%7C+Spring+Boot+%7C+Node.js;Turning+Ideas+Into+Products;Shipping+Over+Talking" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+Enterprise+Banking+Systems;Turning+Ideas+Into+Products;React+Native+%7C+Spring+Boot+%7C+Node.js;Shipping+Over+Talking;Learning+Fast.+Building+Faster." />
 </p>
 
 ---
 
-# 💫 About Me
+##  About
 
-🔭 Currently building enterprise banking applications at **Rumango**
+Most developers build features.
 
-🏦 Working across **Angular, React, Spring Boot, MongoDB and SQL**
+I prefer building products.
 
-📱 Built healthcare and fitness applications using **React Native**
+Currently working as a Full Stack Developer at Rumango where I develop enterprise banking platforms used across multiple countries.
 
-🧠 Interested in **Product Engineering, System Design, AI Applications and Startups**
+My work spans frontend engineering, backend architecture, mobile development, databases, deployments and product thinking.
 
-⚡ I like being thrown into problems nobody has solved yet—and becoming the reason they're solved.
+I enjoy operating where ownership matters more than titles and execution matters more than ideas.
 
-📍 Bangalore, India
+---
+
+## ⚡ Building Now
+
+🏦 Enterprise Banking Platform (NIMB)
+
+📱 Advanced React Native Applications
+
+⚙️ Scalable Backend Systems
+
+🧠 Exploring AI-Augmented Product Experiences
+
+🚀 Preparing for Founding Engineer Opportunities
 
 ---
 
@@ -38,23 +52,19 @@ Building purposeful tech that connects design, data, and people.
 
 ---
 
-# 🚀 What I Build
+## 🏆 Highlights
 
-### 🏦 Banking Platforms
+🏦 Full Stack Developer @ Rumango
 
-Enterprise-grade financial systems handling onboarding, account management and operational workflows.
+📄 Research Publication + Copyright Grant
 
-### ❤️ Healthcare Applications
+❤️ Built ECG Prediction Application
 
-Machine-learning powered ECG prediction systems with nearby cardiologist recommendations.
+📱 Multiple Production React Native Apps
 
-### 📱 Mobile Products
+🏎 Head of Media & Corporate — Team 1.618 Formula Student
 
-Cross-platform React Native applications focused on usability, scalability and performance.
-
-### ⚙️ Backend Systems
-
-REST APIs, microservices, database architecture and enterprise deployments.
+🏗 Led Rural Education Center Renovation Initiative
 
 ---
 
@@ -117,13 +127,23 @@ Fitness tracking application used for inter-college activities with efficient na
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=technoboy07&theme=tokyonight&hide_border=true&include_all_commits=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=technoboy07&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=technoboy07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=technoboy07&theme=tokyonight&hide_border=true&layout=compact)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=technoboy07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technoboy07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
